@@ -19,7 +19,7 @@
 
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/i-abc/GB5/main/gb5-test.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Yuri-NagaSaki/GB5/refs/heads/main/gb5-test.sh)
 ```
 
 ## 使用截图
