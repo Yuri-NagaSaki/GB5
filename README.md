@@ -14,9 +14,6 @@
 
 ## 使用方法
 
-<a target="_blank" href="https://bash.icu/gb5"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbash.icu%2Fgb5&label=bash.icu%2Fgb5&cacheSeconds=300" />
-
-
 
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/Yuri-NagaSaki/GB5/refs/heads/main/gb5-test.sh)
